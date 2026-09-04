@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Office Hours</title>
+    <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
+    <atom:link href="https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A weekly hour on what actually moved in artificial intelligence — a paper, a release, a deployment that worked or did not — argued through by two people who have to explain it to somebody else on Monday. Less announcement coverage, more: what does this change about how the thing should be taught, built or bought.</description>
+    <language>en-us</language>
+    <copyright>Office Hours</copyright>
+    <lastBuildDate>Fri, 04 Sep 2026 18:55:23 +0000</lastBuildDate>
+    <generator>rss.py</generator>
+    <image>
+      <url>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/cover.jpg</url>
+      <title>Office Hours</title>
+      <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
+    </image>
+    <itunes:author>Office Hours</itunes:author>
+    <itunes:summary>A weekly hour on what actually moved in artificial intelligence — a paper, a release, a deployment that worked or did not — argued through by two people who have to explain it to somebody else on Monday. Less announcement coverage, more: what does this change about how the thing should be taught, built or bought.</itunes:summary>
+    <itunes:image href="https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/cover.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category>
+    <itunes:owner><itunes:name>Office Hours</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Episode 1 — 2026-09-04</title>
+      <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
+      <guid isPermaLink="false">office-hours-2026-09-04-132ee600</guid>
+      <pubDate>Fri, 04 Sep 2026 18:38:24 +0000</pubDate>
+      <description>&lt;p&gt;Sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"&gt;Data from drones in Ukraine is fueling a new Wild West marketplace&lt;/a&gt; — MIT Technology Review&lt;/li&gt;&lt;li&gt;&lt;a href="https://arxiv.org/abs/2609.03580"&gt;HalluPeer: A Taxonomy-driven Benchmark for Detecting Hallucinations in Scientific Peer Reviews&lt;/a&gt; — arXiv cs.AI&lt;/li&gt;&lt;li&gt;&lt;a href="https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/"&gt;OpenAI's rogue agents were caught communicating via public wikis&lt;/a&gt; — Simon Willison&lt;/li&gt;&lt;li&gt;&lt;a href="https://simonwillison.net/2026/Sep/4/august-newsletter/"&gt;August newsletter is out&lt;/a&gt; — Simon Willison&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest"&gt;[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time&lt;/a&gt; — Latent Space&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Sources behind this episode.</p><ul><li><a href="https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/">Data from drones in Ukraine is fueling a new Wild West marketplace</a> — MIT Technology Review</li><li><a href="https://arxiv.org/abs/2609.03580">HalluPeer: A Taxonomy-driven Benchmark for Detecting Hallucinations in Scientific Peer Reviews</a> — arXiv cs.AI</li><li><a href="https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/">OpenAI's rogue agents were caught communicating via public wikis</a> — Simon Willison</li><li><a href="https://simonwillison.net/2026/Sep/4/august-newsletter/">August newsletter is out</a> — Simon Willison</li><li><a href="https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest">[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time</a> — Latent Space</li></ul>]]></content:encoded>
+      <itunes:title>Episode 1 — 2026-09-04</itunes:title>
+      <itunes:summary>&lt;p&gt;Sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"&gt;Data from drones in Ukraine is fueling a new Wild West marketplace&lt;/a&gt; — MIT Technology Review&lt;/li&gt;&lt;li&gt;&lt;a href="https://arxiv.org/abs/2609.03580"&gt;HalluPeer: A Taxonomy-driven Benchmark for Detecting Hallucinations in Scientific Peer Reviews&lt;/a&gt; — arXiv cs.AI&lt;/li&gt;&lt;li&gt;&lt;a href="https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/"&gt;OpenAI's rogue agents were caught communicating via public wikis&lt;/a&gt; — Simon Willison&lt;/li&gt;&lt;li&gt;&lt;a href="https://simonwillison.net/2026/Sep/4/august-newsletter/"&gt;August newsletter is out&lt;/a&gt; — Simon Willison&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.latent.space/p/ainews-gpt-6-astra-openais-biggest"&gt;[AINews] GPT-6 Astra: OpenAI’s biggest LLM launch of all time&lt;/a&gt; — Latent Space&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:author>Office Hours</itunes:author>
+      <itunes:duration>662</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/episodes/2026-09-04.mp3" length="7954455" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
