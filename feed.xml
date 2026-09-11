@@ -7,7 +7,7 @@
     <description>The Saturday-morning on-ramp for one instructor: what tomorrow's class teaches, the real-world cases that are not on the slides, and only the week's news that a product manager can use in the room — every term in plain words.</description>
     <language>en-us</language>
     <copyright>Office Hours</copyright>
-    <lastBuildDate>Fri, 11 Sep 2026 20:23:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:30:27 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/cover.jpg</url>
@@ -34,7 +34,7 @@
       <itunes:duration>820</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/episodes/2026-09-11.mp3" length="9845930" type="audio/mpeg"/>
+      <enclosure url="https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/episodes/2026-09-11-recut.mp3" length="9845930" type="audio/mpeg"/>
     </item>
     <item>
       <title>Episode 1 — 2026-09-04</title>
