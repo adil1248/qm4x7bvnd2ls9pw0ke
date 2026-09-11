@@ -4,10 +4,10 @@
     <title>Office Hours</title>
     <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
     <atom:link href="https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>A weekly hour on what actually moved in artificial intelligence — a paper, a release, a deployment that worked or did not — argued through by two people who have to explain it to somebody else on Monday. Less announcement coverage, more: what does this change about how the thing should be taught, built or bought.</description>
+    <description>The Saturday-morning on-ramp for one instructor: what tomorrow's class teaches, the real-world cases that are not on the slides, and only the week's news that a product manager can use in the room — every term in plain words.</description>
     <language>en-us</language>
     <copyright>Office Hours</copyright>
-    <lastBuildDate>Fri, 11 Sep 2026 17:59:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 19:59:32 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/cover.jpg</url>
@@ -15,7 +15,7 @@
       <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
     </image>
     <itunes:author>Office Hours</itunes:author>
-    <itunes:summary>A weekly hour on what actually moved in artificial intelligence — a paper, a release, a deployment that worked or did not — argued through by two people who have to explain it to somebody else on Monday. Less announcement coverage, more: what does this change about how the thing should be taught, built or bought.</itunes:summary>
+    <itunes:summary>The Saturday-morning on-ramp for one instructor: what tomorrow's class teaches, the real-world cases that are not on the slides, and only the week's news that a product manager can use in the room — every term in plain words.</itunes:summary>
     <itunes:image href="https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/cover.jpg"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
@@ -25,16 +25,16 @@
       <title>Episode 2 — 2026-09-11</title>
       <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
       <guid isPermaLink="false">office-hours-2026-09-11-629b89e4</guid>
-      <pubDate>Fri, 11 Sep 2026 17:30:05 +0000</pubDate>
-      <description>&lt;p&gt;Sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://simonwillison.net/2026/Sep/11/hugging-face-security/"&gt;Quoting huggingface.co/security.txt&lt;/a&gt; — Simon Willison&lt;/li&gt;&lt;li&gt;&lt;a href="https://simonwillison.net/2026/Sep/11/wrapture/"&gt;Don't sleep on wrapture&lt;/a&gt; — Simon Willison&lt;/li&gt;&lt;li&gt;&lt;a href="https://arxiv.org/abs/2609.09245"&gt;What Fixed-Rollout pass@k Evaluations Can Identify&lt;/a&gt; — arXiv cs.AI&lt;/li&gt;&lt;li&gt;&lt;a href="https://openai.com/index/scaling-storage-one-billion-users-part-one"&gt;Rapidly scaling online storage to serve over 1 billion ChatGPT users&lt;/a&gt; — OpenAI&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.nist.gov/news-events/news/2026/09/nist-developed-quantum-sensors-improve-nuclear-monitoring"&gt;NIST-Developed Quantum Sensors Improve Nuclear Monitoring&lt;/a&gt; — NIST&lt;/li&gt;&lt;/ul&gt;</description>
-      <content:encoded><![CDATA[<p>Sources behind this episode.</p><ul><li><a href="https://simonwillison.net/2026/Sep/11/hugging-face-security/">Quoting huggingface.co/security.txt</a> — Simon Willison</li><li><a href="https://simonwillison.net/2026/Sep/11/wrapture/">Don't sleep on wrapture</a> — Simon Willison</li><li><a href="https://arxiv.org/abs/2609.09245">What Fixed-Rollout pass@k Evaluations Can Identify</a> — arXiv cs.AI</li><li><a href="https://openai.com/index/scaling-storage-one-billion-users-part-one">Rapidly scaling online storage to serve over 1 billion ChatGPT users</a> — OpenAI</li><li><a href="https://www.nist.gov/news-events/news/2026/09/nist-developed-quantum-sensors-improve-nuclear-monitoring">NIST-Developed Quantum Sensors Improve Nuclear Monitoring</a> — NIST</li></ul>]]></content:encoded>
+      <pubDate>Fri, 11 Sep 2026 19:07:20 +0000</pubDate>
+      <description>&lt;p&gt;Sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/build-your-own-company-brain-the"&gt;Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://sloanreview.mit.edu/article/when-ai-disruption-never-ends/"&gt;When AI Disruption Never Ends&lt;/a&gt; — MIT Sloan Management Review&lt;/li&gt;&lt;li&gt;&lt;a href="https://arxiv.org/abs/2609.09243"&gt;In RAG We Trust? Measuring Robustness of Retrieval-Augmented Generation Under Document Poisoning&lt;/a&gt; — arXiv cs.AI&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Sources behind this episode.</p><ul><li><a href="https://www.lennysnewsletter.com/p/build-your-own-company-brain-the">Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy</a> — Lenny's Newsletter</li><li><a href="https://sloanreview.mit.edu/article/when-ai-disruption-never-ends/">When AI Disruption Never Ends</a> — MIT Sloan Management Review</li><li><a href="https://arxiv.org/abs/2609.09243">In RAG We Trust? Measuring Robustness of Retrieval-Augmented Generation Under Document Poisoning</a> — arXiv cs.AI</li></ul>]]></content:encoded>
       <itunes:title>Episode 2 — 2026-09-11</itunes:title>
-      <itunes:summary>&lt;p&gt;Sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://simonwillison.net/2026/Sep/11/hugging-face-security/"&gt;Quoting huggingface.co/security.txt&lt;/a&gt; — Simon Willison&lt;/li&gt;&lt;li&gt;&lt;a href="https://simonwillison.net/2026/Sep/11/wrapture/"&gt;Don't sleep on wrapture&lt;/a&gt; — Simon Willison&lt;/li&gt;&lt;li&gt;&lt;a href="https://arxiv.org/abs/2609.09245"&gt;What Fixed-Rollout pass@k Evaluations Can Identify&lt;/a&gt; — arXiv cs.AI&lt;/li&gt;&lt;li&gt;&lt;a href="https://openai.com/index/scaling-storage-one-billion-users-part-one"&gt;Rapidly scaling online storage to serve over 1 billion ChatGPT users&lt;/a&gt; — OpenAI&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.nist.gov/news-events/news/2026/09/nist-developed-quantum-sensors-improve-nuclear-monitoring"&gt;NIST-Developed Quantum Sensors Improve Nuclear Monitoring&lt;/a&gt; — NIST&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:summary>&lt;p&gt;Sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/build-your-own-company-brain-the"&gt;Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://sloanreview.mit.edu/article/when-ai-disruption-never-ends/"&gt;When AI Disruption Never Ends&lt;/a&gt; — MIT Sloan Management Review&lt;/li&gt;&lt;li&gt;&lt;a href="https://arxiv.org/abs/2609.09243"&gt;In RAG We Trust? Measuring Robustness of Retrieval-Augmented Generation Under Document Poisoning&lt;/a&gt; — arXiv cs.AI&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
       <itunes:author>Office Hours</itunes:author>
-      <itunes:duration>946</itunes:duration>
+      <itunes:duration>820</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <enclosure url="https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/episodes/2026-09-11.mp3" length="11361241" type="audio/mpeg"/>
+      <enclosure url="https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/episodes/2026-09-11.mp3" length="9845930" type="audio/mpeg"/>
     </item>
     <item>
       <title>Episode 1 — 2026-09-04</title>
