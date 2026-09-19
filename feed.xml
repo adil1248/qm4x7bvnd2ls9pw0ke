@@ -4,10 +4,11 @@
     <title>Office Hours</title>
     <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
     <atom:link href="https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
     <description>The Saturday-morning on-ramp for one instructor: what tomorrow's class teaches, the real-world cases that are not on the slides, and only the week's news that a product manager can use in the room — every term in plain words.</description>
     <language>en-us</language>
     <copyright>Office Hours</copyright>
-    <lastBuildDate>Fri, 11 Sep 2026 21:28:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 16:00:53 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/cover.jpg</url>
@@ -21,6 +22,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category>
     <itunes:owner><itunes:name>Office Hours</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Episode 4 — 2026-09-17</title>
+      <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
+      <guid isPermaLink="false">office-hours-2026-09-17-7312dc7c</guid>
+      <pubDate>Thu, 17 Sep 2026 17:10:33 +0000</pubDate>
+      <description>&lt;p&gt;Sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://arxiv.org/abs/2609.18052"&gt;An Empirical Evaluation of Cost-Efficient Large Language Models on Algorithmic Programming Tasks&lt;/a&gt; — arXiv cs.AI&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.latent.space/p/ainews-aef-1-standard-emerges-for"&gt;[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign&lt;/a&gt; — Latent Space&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents"&gt;How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai &amp;amp; Peng Zheng&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Sources behind this episode.</p><ul><li><a href="https://arxiv.org/abs/2609.18052">An Empirical Evaluation of Cost-Efficient Large Language Models on Algorithmic Programming Tasks</a> — arXiv cs.AI</li><li><a href="https://www.latent.space/p/ainews-aef-1-standard-emerges-for">[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign</a> — Latent Space</li><li><a href="https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents">How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai &amp; Peng Zheng</a> — Lenny's Newsletter</li></ul>]]></content:encoded>
+      <itunes:title>Episode 4 — 2026-09-17</itunes:title>
+      <itunes:summary>&lt;p&gt;Sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://arxiv.org/abs/2609.18052"&gt;An Empirical Evaluation of Cost-Efficient Large Language Models on Algorithmic Programming Tasks&lt;/a&gt; — arXiv cs.AI&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.latent.space/p/ainews-aef-1-standard-emerges-for"&gt;[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign&lt;/a&gt; — Latent Space&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents"&gt;How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai &amp;amp; Peng Zheng&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:author>Office Hours</itunes:author>
+      <itunes:duration>783</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/episodes/2026-09-17.mp3" length="9396728" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Episode 2b (extended) — more cases for Class 2–4 — 2026-09-11</title>
       <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
