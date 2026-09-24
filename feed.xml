@@ -8,7 +8,7 @@
     <description>The Saturday-morning on-ramp for one instructor: what tomorrow's class teaches, the real-world cases that are not on the slides, and only the week's news that a product manager can use in the room — every term in plain words.</description>
     <language>en-us</language>
     <copyright>Office Hours</copyright>
-    <lastBuildDate>Sat, 19 Sep 2026 16:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 17:22:45 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/cover.jpg</url>
@@ -22,6 +22,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category>
     <itunes:owner><itunes:name>Office Hours</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Episode 5 — 2026-09-24</title>
+      <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
+      <guid isPermaLink="false">office-hours-2026-09-24-42fc8a0a</guid>
+      <pubDate>Thu, 24 Sep 2026 17:11:54 +0000</pubDate>
+      <description>&lt;p&gt;Sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses"&gt;[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm&lt;/a&gt; — Latent Space&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55"&gt;I left Claude for months. Opus 5.5 is why I'm back&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"&gt;How we made the first comprehensive map of deaths along the US border’s “virtual wall”&lt;/a&gt; — MIT Technology Review&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Sources behind this episode.</p><ul><li><a href="https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses">[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm</a> — Latent Space</li><li><a href="https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55">I left Claude for months. Opus 5.5 is why I'm back</a> — Lenny's Newsletter</li><li><a href="https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/">How we made the first comprehensive map of deaths along the US border’s “virtual wall”</a> — MIT Technology Review</li></ul>]]></content:encoded>
+      <itunes:title>Episode 5 — 2026-09-24</itunes:title>
+      <itunes:summary>&lt;p&gt;Sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses"&gt;[AINews] Meta Connect 2026: Muse glasses, voice, video, and Charm&lt;/a&gt; — Latent Space&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55"&gt;I left Claude for months. Opus 5.5 is why I'm back&lt;/a&gt; — Lenny's Newsletter&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"&gt;How we made the first comprehensive map of deaths along the US border’s “virtual wall”&lt;/a&gt; — MIT Technology Review&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:author>Office Hours</itunes:author>
+      <itunes:duration>591</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/episodes/2026-09-24.mp3" length="7095863" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Episode 4 — 2026-09-17</title>
       <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
