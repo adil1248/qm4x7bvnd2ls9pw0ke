@@ -8,7 +8,7 @@
     <description>The Saturday-morning on-ramp for one instructor: what tomorrow's class teaches, the real-world cases that are not on the slides, and only the week's news that a product manager can use in the room — every term in plain words.</description>
     <language>en-us</language>
     <copyright>Office Hours</copyright>
-    <lastBuildDate>Thu, 24 Sep 2026 17:22:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 16:25:31 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/cover.jpg</url>
@@ -22,6 +22,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category>
     <itunes:owner><itunes:name>Office Hours</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Episode 6 — 2026-10-01</title>
+      <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
+      <guid isPermaLink="false">office-hours-2026-10-01-ee2f6a5d</guid>
+      <pubDate>Fri, 02 Oct 2026 16:12:30 +0000</pubDate>
+      <description>&lt;p&gt;Sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"&gt;Who’s liable when AI agents go rogue?&lt;/a&gt; — MIT Technology Review&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.latent.space/p/airbnb"&gt;Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience&lt;/a&gt; — Latent Space&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b"&gt;[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more&lt;/a&gt; — Latent Space&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Sources behind this episode.</p><ul><li><a href="https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/">Who’s liable when AI agents go rogue?</a> — MIT Technology Review</li><li><a href="https://www.latent.space/p/airbnb">Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience</a> — Latent Space</li><li><a href="https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b">[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more</a> — Latent Space</li></ul>]]></content:encoded>
+      <itunes:title>Episode 6 — 2026-10-01</itunes:title>
+      <itunes:summary>&lt;p&gt;Sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"&gt;Who’s liable when AI agents go rogue?&lt;/a&gt; — MIT Technology Review&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.latent.space/p/airbnb"&gt;Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience&lt;/a&gt; — Latent Space&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b"&gt;[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more&lt;/a&gt; — Latent Space&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:author>Office Hours</itunes:author>
+      <itunes:duration>754</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/episodes/2026-10-01.mp3" length="9059435" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Episode 5 — 2026-09-24</title>
       <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
