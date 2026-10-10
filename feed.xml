@@ -8,7 +8,7 @@
     <description>The Saturday-morning on-ramp for one instructor: what tomorrow's class teaches, the real-world cases that are not on the slides, and only the week's news that a product manager can use in the room — every term in plain words.</description>
     <language>en-us</language>
     <copyright>Office Hours</copyright>
-    <lastBuildDate>Fri, 02 Oct 2026 16:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 03:27:01 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/cover.jpg</url>
@@ -22,6 +22,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category>
     <itunes:owner><itunes:name>Office Hours</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Episode 7 — 2026-10-08</title>
+      <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
+      <guid isPermaLink="false">office-hours-2026-10-08-cbcf854e</guid>
+      <pubDate>Thu, 08 Oct 2026 17:15:25 +0000</pubDate>
+      <description>&lt;p&gt;Sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"&gt;Building a safer path to autonomous industrial AI&lt;/a&gt; — MIT Technology Review&lt;/li&gt;&lt;li&gt;&lt;a href="https://arxiv.org/abs/2610.07258"&gt;Lineage-Aware Memory Governance: A Derivation-Gated Framework for Privacy-Preserving Column-Level Access Control in Enterprise AI Agents&lt;/a&gt; — arXiv cs.AI&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/"&gt;Connecting AI agents to enterprise knowledge&lt;/a&gt; — MIT Technology Review&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Sources behind this episode.</p><ul><li><a href="https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/">Building a safer path to autonomous industrial AI</a> — MIT Technology Review</li><li><a href="https://arxiv.org/abs/2610.07258">Lineage-Aware Memory Governance: A Derivation-Gated Framework for Privacy-Preserving Column-Level Access Control in Enterprise AI Agents</a> — arXiv cs.AI</li><li><a href="https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/">Connecting AI agents to enterprise knowledge</a> — MIT Technology Review</li></ul>]]></content:encoded>
+      <itunes:title>Episode 7 — 2026-10-08</itunes:title>
+      <itunes:summary>&lt;p&gt;Sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"&gt;Building a safer path to autonomous industrial AI&lt;/a&gt; — MIT Technology Review&lt;/li&gt;&lt;li&gt;&lt;a href="https://arxiv.org/abs/2610.07258"&gt;Lineage-Aware Memory Governance: A Derivation-Gated Framework for Privacy-Preserving Column-Level Access Control in Enterprise AI Agents&lt;/a&gt; — arXiv cs.AI&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/"&gt;Connecting AI agents to enterprise knowledge&lt;/a&gt; — MIT Technology Review&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:author>Office Hours</itunes:author>
+      <itunes:duration>864</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/episodes/2026-10-08.mp3" length="10371618" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Episode 6 — 2026-10-01</title>
       <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
