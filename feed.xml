@@ -8,7 +8,7 @@
     <description>The Saturday-morning on-ramp for one instructor: what tomorrow's class teaches, the real-world cases that are not on the slides, and only the week's news that a product manager can use in the room — every term in plain words.</description>
     <language>en-us</language>
     <copyright>Office Hours</copyright>
-    <lastBuildDate>Sat, 10 Oct 2026 03:27:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:54:46 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/cover.jpg</url>
@@ -22,6 +22,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category>
     <itunes:owner><itunes:name>Office Hours</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Episode 8 — 2026-10-15</title>
+      <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
+      <guid isPermaLink="false">office-hours-2026-10-15-7bbed66e</guid>
+      <pubDate>Thu, 15 Oct 2026 17:51:13 +0000</pubDate>
+      <description>&lt;p&gt;Sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"&gt;Open models have real benefits. Do they outweigh the risks?&lt;/a&gt; — MIT Technology Review&lt;/li&gt;&lt;li&gt;&lt;a href="https://arxiv.org/abs/2607.09988"&gt;An LLM-powered Agentic Recommendation System for Connected TV Content Discovery&lt;/a&gt; — arXiv cs.AI&lt;/li&gt;&lt;li&gt;&lt;a href="https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/"&gt;A Conversation With Ari Emanuel About Entertainment and AI&lt;/a&gt; — Stratechery&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Sources behind this episode.</p><ul><li><a href="https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/">Open models have real benefits. Do they outweigh the risks?</a> — MIT Technology Review</li><li><a href="https://arxiv.org/abs/2607.09988">An LLM-powered Agentic Recommendation System for Connected TV Content Discovery</a> — arXiv cs.AI</li><li><a href="https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/">A Conversation With Ari Emanuel About Entertainment and AI</a> — Stratechery</li></ul>]]></content:encoded>
+      <itunes:title>Episode 8 — 2026-10-15</itunes:title>
+      <itunes:summary>&lt;p&gt;Sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"&gt;Open models have real benefits. Do they outweigh the risks?&lt;/a&gt; — MIT Technology Review&lt;/li&gt;&lt;li&gt;&lt;a href="https://arxiv.org/abs/2607.09988"&gt;An LLM-powered Agentic Recommendation System for Connected TV Content Discovery&lt;/a&gt; — arXiv cs.AI&lt;/li&gt;&lt;li&gt;&lt;a href="https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/"&gt;A Conversation With Ari Emanuel About Entertainment and AI&lt;/a&gt; — Stratechery&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:author>Office Hours</itunes:author>
+      <itunes:duration>727</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/episodes/2026-10-15.mp3" length="8731859" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Episode 7 — 2026-10-08</title>
       <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
