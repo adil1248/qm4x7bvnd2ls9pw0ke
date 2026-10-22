@@ -8,7 +8,7 @@
     <description>The Saturday-morning on-ramp for one instructor: what tomorrow's class teaches, the real-world cases that are not on the slides, and only the week's news that a product manager can use in the room — every term in plain words.</description>
     <language>en-us</language>
     <copyright>Office Hours</copyright>
-    <lastBuildDate>Thu, 15 Oct 2026 17:54:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 20:44:15 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/cover.jpg</url>
@@ -22,6 +22,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category>
     <itunes:owner><itunes:name>Office Hours</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Episode 9 — 2026-10-22</title>
+      <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
+      <guid isPermaLink="false">office-hours-2026-10-22-6d4cfce0</guid>
+      <pubDate>Thu, 22 Oct 2026 20:36:59 +0000</pubDate>
+      <description>&lt;p&gt;Sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"&gt;The Foundations of Scalable AI&lt;/a&gt; — MIT Technology Review&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.latent.space/p/modal-d"&gt;Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO&lt;/a&gt; — Latent Space&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"&gt;Making the internet better for AI agents might make it worse for everyone else&lt;/a&gt; — MIT Technology Review&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Sources behind this episode.</p><ul><li><a href="https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/">The Foundations of Scalable AI</a> — MIT Technology Review</li><li><a href="https://www.latent.space/p/modal-d">Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO</a> — Latent Space</li><li><a href="https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/">Making the internet better for AI agents might make it worse for everyone else</a> — MIT Technology Review</li></ul>]]></content:encoded>
+      <itunes:title>Episode 9 — 2026-10-22</itunes:title>
+      <itunes:summary>&lt;p&gt;Sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"&gt;The Foundations of Scalable AI&lt;/a&gt; — MIT Technology Review&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.latent.space/p/modal-d"&gt;Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO&lt;/a&gt; — Latent Space&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"&gt;Making the internet better for AI agents might make it worse for everyone else&lt;/a&gt; — MIT Technology Review&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:author>Office Hours</itunes:author>
+      <itunes:duration>626</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/episodes/2026-10-22.mp3" length="7515598" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Episode 8 — 2026-10-15</title>
       <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
