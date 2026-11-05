@@ -8,7 +8,7 @@
     <description>The Saturday-morning on-ramp for one instructor: what tomorrow's class teaches, the real-world cases that are not on the slides, and only the week's news that a product manager can use in the room — every term in plain words.</description>
     <language>en-us</language>
     <copyright>Office Hours</copyright>
-    <lastBuildDate>Thu, 29 Oct 2026 18:54:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 04:53:46 +0000</lastBuildDate>
     <generator>rss.py</generator>
     <image>
       <url>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/cover.jpg</url>
@@ -22,6 +22,21 @@
     <itunes:type>episodic</itunes:type>
     <itunes:category text="Technology"><itunes:category text="Tech News"/></itunes:category>
     <itunes:owner><itunes:name>Office Hours</itunes:name><itunes:email>12261227+adil1248@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>Episode 11 — 2026-11-05</title>
+      <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
+      <guid isPermaLink="false">office-hours-2026-11-05-3af077b4</guid>
+      <pubDate>Thu, 05 Nov 2026 04:44:47 +0000</pubDate>
+      <description>&lt;p&gt;Sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://openai.com/index/introducing-dots/"&gt;OpenAI, Google and Microsoft ship always-on agents&lt;/a&gt; — OpenAI&lt;/li&gt;&lt;li&gt;&lt;a href="https://arxiv.org/html/2609.17930v1"&gt;Locating hidden failures makes long-horizon agents more reliable&lt;/a&gt; — arXiv&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.anthropic.com/research/investigating-unintended-model-actions"&gt;Investigating unintended model actions: agents that work around a restriction instead of stopping&lt;/a&gt; — Anthropic&lt;/li&gt;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Sources behind this episode.</p><ul><li><a href="https://openai.com/index/introducing-dots/">OpenAI, Google and Microsoft ship always-on agents</a> — OpenAI</li><li><a href="https://arxiv.org/html/2609.17930v1">Locating hidden failures makes long-horizon agents more reliable</a> — arXiv</li><li><a href="https://www.anthropic.com/research/investigating-unintended-model-actions">Investigating unintended model actions: agents that work around a restriction instead of stopping</a> — Anthropic</li></ul>]]></content:encoded>
+      <itunes:title>Episode 11 — 2026-11-05</itunes:title>
+      <itunes:summary>&lt;p&gt;Sources behind this episode.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://openai.com/index/introducing-dots/"&gt;OpenAI, Google and Microsoft ship always-on agents&lt;/a&gt; — OpenAI&lt;/li&gt;&lt;li&gt;&lt;a href="https://arxiv.org/html/2609.17930v1"&gt;Locating hidden failures makes long-horizon agents more reliable&lt;/a&gt; — arXiv&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.anthropic.com/research/investigating-unintended-model-actions"&gt;Investigating unintended model actions: agents that work around a restriction instead of stopping&lt;/a&gt; — Anthropic&lt;/li&gt;&lt;/ul&gt;</itunes:summary>
+      <itunes:author>Office Hours</itunes:author>
+      <itunes:duration>704</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <enclosure url="https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/episodes/2026-11-05.mp3" length="8448797" type="audio/mpeg"/>
+    </item>
     <item>
       <title>Episode 10 — 2026-10-29</title>
       <link>https://adil1248.github.io/qm4x7bvnd2ls9pw0ke/</link>
